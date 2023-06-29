@@ -121,10 +121,19 @@ public class StudentRepository {
         }
 
 
-            }
+    }
 
 
+    public Student findStudentById(int id) {
+
+        return null;
+    }
 }
+
+
+
+
+
 
 
 
